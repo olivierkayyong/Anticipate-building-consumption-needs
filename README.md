@@ -12,4 +12,4 @@ You are also looking to assess the value of the "ENERGY STAR Score" for predicti
 ## Your mission:
 
 Carry out a short exploratory analysis.
-Test different prediction models in order to best respond to the problem.
+Test different prediction models in order to answer the problem.
